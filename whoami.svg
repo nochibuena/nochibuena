@@ -16,15 +16,15 @@
 
   <text x="24" y="137" fill="#58a6ff" font-family="monospace" font-size="14">status</text>
   <text x="150" y="137" fill="#8b949e" font-family="monospace" font-size="14">:</text>
-  <text x="170" y="137" fill="#f0f6fc" font-family="monospace" font-size="14">Student</text>
+  <text x="170" y="137" fill="#f0f6fc" font-family="monospace" font-size="14">student</text>
 
   <text x="24" y="166" fill="#58a6ff" font-family="monospace" font-size="14">location</text>
   <text x="150" y="166" fill="#8b949e" font-family="monospace" font-size="14">:</text>
-  <text x="170" y="166" fill="#f0f6fc" font-family="monospace" font-size="14">Philippines</text>
+  <text x="170" y="166" fill="#f0f6fc" font-family="monospace" font-size="14">philippines</text>
 
   <text x="24" y="195" fill="#58a6ff" font-family="monospace" font-size="14">goal</text>
   <text x="150" y="195" fill="#8b949e" font-family="monospace" font-size="14">:</text>
-  <text x="170" y="195" fill="#f0f6fc" font-family="monospace" font-size="14">Aspiring Software Engineer</text>
+  <text x="170" y="195" fill="#f0f6fc" font-family="monospace" font-size="14">to become a software engineer</text>
 
   <line x1="24" y1="218" x2="626" y2="218" stroke="#30363d"/>
 
