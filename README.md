@@ -6,4 +6,4 @@ location  : Philippines
 goal      : Aspiring Software Engineer
 
 currently learning:
-programming fundamentals • web development • other shenanigans
+programming fundamentals • web development • whatever sparks my curiosity
